@@ -1,0 +1,170 @@
+body {
+	background: url(background.png);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	font-family: "lato";
+	color: #FFFFFF;
+}
+
+html {
+	height: 100%;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+	}
+
+	h1 {
+		font-weight: 700;
+		font-size: 110px;
+	}
+
+h1, h3 {
+	text-shadow:  0px 4px 3px rgba(0,0,0,0.4),
+				  0px 8px 13px rgba(0,0,0,0.1), 
+				  0px 18px 23px rgba(0,0,0,0.1);
+}
+
+	p {
+		font-size: 35px;
+	}
+
+	.info {
+		font-size: 23px;
+		background-color: rgba(77, 77, 77, .5);
+		margin-bottom: 200px;
+	}
+
+	.about {
+		margin-top: 400px;
+	}
+
+.container{
+	text-align: center;
+}
+
+.border {
+	border: 10px solid black;
+	height: 200px;
+	transition: .5s;
+}
+
+.border:hover{
+	background-color: rgba(0, 179,0 , .5);
+	text-shadow:  5px 5px black;
+}
+
+/*.row {
+	padding-top: 8%;
+}
+*/
+.jumbotron {
+	background-color: rgba(77, 77, 77, .5);
+}
+
+footer {
+	margin-top: 100px;
+	font-size: 30px;
+	background-color: rgba(77, 77, 77, .5);
+	text-align: center;
+}
+
+footer h1{
+	font-size: 65px;
+	text-shadow:  5px 5px black;
+}
+
+footer a {
+	color: white;
+	transition: .2s;
+
+}
+
+footer a:hover {
+	color: white;
+	text-decoration: none;
+	font-size: 35px;
+	color: rgba(0, 179,0 , .5);
+}
+
+
+
+
+#toggledata a {
+	padding: 0 3px 0 3px;
+	font-size: 40px;
+}
+
+#toggledata a:link {
+	color: #ffcc66;
+}
+ #toggledata a:hover {
+ 	text-decoration: none;
+ 	border-left: 2px solid white;
+ 	border-right: 2px solid white;
+ }
+
+ #toggledata a:visited {
+ 	color: rgb(0, 179,0);
+ }
+
+ #toggledata2 a {
+	padding: 0 3px 0 3px;
+	font-size: 40px;
+}
+
+#toggledata2 a:link {
+	color: #ffcc66;
+}
+ #toggledata2 a:hover {
+ 	text-decoration: none;
+ 	border-left: 2px solid white;
+ 	border-right: 2px solid white;
+ }
+
+ #toggledata2 a:visited {
+ 	color: rgb(0, 179,0);
+ }
+
+ #toggledata3 a {
+	padding: 0 3px 0 3px;
+	font-size: 40px;
+}
+
+#toggledata3 a:link {
+	color: #ffcc66;
+}
+ #toggledata3 a:hover {
+ 	text-decoration: none;
+ 	border-left: 2px solid white;
+ 	border-right: 2px solid white;
+ }
+
+ #toggledata3 a:visited {
+ 	color: rgb(0, 179,0);
+ }
+
+ #toggledata4 a {
+	padding: 0 3px 0 3px;
+	font-size: 40px;
+}
+
+#toggledata4 a:link {
+	color: #ffcc66;
+}
+ #toggledata4 a:hover {
+ 	text-decoration: none;
+ 	border-left: 2px solid white;
+ 	border-right: 2px solid white;
+ }
+
+ #toggledata4 a:visited {
+ 	color: rgb(0, 179,0);
+ }
+
+
+
+
