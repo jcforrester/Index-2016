@@ -1,2 +1,2 @@
 # Index-2016
-The site I made as as my main index page for Web Classes in 2016.
+The site I made as as my main index page for Web Classes in 2016. I used the same site for all my classes as a homepage, and this was the collaboriation of those. Built with Bootstrap, it features a VERY similar design to the Landing page, as I still didn't use much boostrap when I created it. The site is filled with dead links that worked at one point, but are not not live since they cleared the server.
